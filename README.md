@@ -1,6 +1,6 @@
 # Descrição
 
-Neste exercício prático, você irá construir a bandeiras da Filândia usando CSS.
+Neste exercício prático, você irá construir a bandeiras da Noruega usando CSS.
 
 
 O objetivo deste exercício é exercitar o seu conhecimento sobre o CSS Box Model e Flexbox.
@@ -13,12 +13,12 @@ O objetivo deste exercício é exercitar o seu conhecimento sobre o CSS Box Mode
 
 ## Instruções:
 
-1. Construa a bandeira da Filândia alterando o conteúdo do arquivo **src/index.html** e **src/css/estilo.css**
+1. Construa a bandeira da Noruega alterando o conteúdo do arquivo **src/index.html** e **src/css/estilo.css**
 1. Sua bandeira deve ficar parecido com a bandeira abaixo:
   
 <figure>
-	<img src="https://www.worldometers.info/img/flags/fi-flag.gif" alt="Bandeira da Filândia" width="50%">
-	<figcaption>Bandeira da Filândia</figcaption>
+	<img src="https://www.worldometers.info/img/flags/no-flag.gif" alt="Bandeira da Noruega" width="50%">
+	<figcaption>Bandeira da Noruega</figcaption>
 </figure>
 
 
